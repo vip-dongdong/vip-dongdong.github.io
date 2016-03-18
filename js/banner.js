@@ -1,6 +1,7 @@
 $(function(){
     var widths=$(".slides li").width();
     var s=$(".slides li").length;
+    //
     //var w=$(".slides").css("width",widths*s);
 
     var flag=true;
